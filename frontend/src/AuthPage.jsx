@@ -1,7 +1,5 @@
 import axios from 'axios'
 
-<link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css"></link>
-
 const AuthPage = (props) => {
     const onSubmit = (e) => {
       e.preventDefault();
